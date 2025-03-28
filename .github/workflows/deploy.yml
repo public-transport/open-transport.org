@@ -10,4 +10,4 @@ jobs:
     runs-on: ['self-hosted', 'open-transport']
     steps:
       - uses: actions/checkout@v4
-      - run: rm -rf /home/ot/web && cp -r web /home/ot/web
+      - run: rm -rf /home/ot/web/* && cp -r web/* /home/ot/web
