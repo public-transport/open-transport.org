@@ -11,5 +11,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - run: node -v
+      - run: npm install
       - run: npx @tailwindcss/cli -i ./src/input.css -o ./web/output.css
       - run: rm -rf /home/ot/web/* && cp -r web/* /home/ot/web
