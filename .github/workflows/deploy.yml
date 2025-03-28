@@ -12,6 +12,7 @@ jobs:
       - uses: actions/checkout@v4
       - run: |
           /home/ot/.nvm/nvm.sh
+          echo $PATH
           nvm use 22
           node -v
           npm install
