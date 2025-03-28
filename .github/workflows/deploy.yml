@@ -11,10 +11,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - run: |
-          /home/ot/.nvm/nvm.sh
-          echo $PATH
-          nvm use 22
-          node -v
           npm install
           npx @tailwindcss/cli -i ./src/input.css -o ./web/output.css
           rm -rf /home/ot/web/* && cp -r web/* /home/ot/web
