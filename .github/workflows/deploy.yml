@@ -10,4 +10,6 @@ jobs:
     runs-on: ['self-hosted', 'open-transport']
     steps:
       - uses: actions/checkout@v4
+      - run: node -v
+      - run: npx @tailwindcss/cli -i ./src/input.css -o ./web/output.css
       - run: rm -rf /home/ot/web/* && cp -r web/* /home/ot/web
