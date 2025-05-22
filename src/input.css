@@ -1,1 +1,5 @@
 @import "tailwindcss";
+
+li {
+    @apply list-outside ml-4 pl-4 py-1;
+}
