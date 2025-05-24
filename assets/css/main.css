@@ -1,0 +1,45 @@
+@import "tailwindcss";
+@source "hugo_stats.json";
+
+
+.md-content {
+  @apply mx-auto px-4 sm:px-6 lg:px-8 ;
+  p, pre {
+    @apply my-2 max-w-5xl text-xl;
+  }
+
+  ul {
+    @apply my-2 max-w-5xl text-base list-disc list-inside;
+  }
+
+  a {
+    @apply border-b border-dotted;
+  }
+
+  h2 {
+    @apply mt-12 text-4xl font-medium tracking-tighter text-blue-600 sm:text-5xl;
+  }
+
+  h3 {
+    @apply text-2xl font-semibold tracking-tight text-blue-900;
+  }
+
+  li:not(.schedule-event) {
+    @apply list-outside text-xl ml-4 pl-4 py-1;
+  }
+
+  .footnotes {
+    @apply pt-4;
+    ol {
+      @apply list-decimal;
+    }
+  }
+
+  a.footnote-ref::before {
+    content: '[';
+  }
+
+  a.footnote-ref::after {
+    content: ']';
+  }
+}

@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="{{ site.Language.Lang }}" dir="{{ or site.Language.LanguageDirection `ltr` }}">
+<head>
+{{ partial "head.html" . }}
+</head>
+<body class="font-sans leading-normal tracking-normal text-lg bg-[#cde6f1]">
+  <header class="mx-auto flex flex-col justify-center items-center">{{ partial "header.html" . }}</header>
+  <main class="mx-auto flex flex-col justify-center items-center">
+    {{ block "main" . }}{{ end }}
+  </main>
+  <footer class="mx-auto flex flex-col justify-center items-center mt-4">{{ partial "footer.html" . }}</footer>
+</body>
+</html>

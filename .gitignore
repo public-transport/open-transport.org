@@ -1,2 +1,4 @@
 node_modules
-web/output.css
+public
+hugo_stats.json
+.hugo_build.lock
