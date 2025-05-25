@@ -1,8 +1,6 @@
-name: CI
+name: Build and Deploy
 
-on:
-  push:
-    branches: [ master ]
+on: push
 
 jobs:
   # Build job
@@ -55,8 +53,20 @@ jobs:
             ${{ runner.temp }}/hugo_cache
           key: ${{ steps.cache-restore.outputs.cache-primary-key }}
 
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: artifact_public
+          path: public
+
   deploy:
+    needs: build
     runs-on: ['self-hosted', 'open-transport']
+    if: github.ref == 'refs/heads/master'
     steps:
+      - name: Download math result for job 2
+        uses: actions/download-artifact@v4
+        with:
+          name: artifact_public
       - run: |
           rm -rf /home/ot/web/* && cp -r public/* /home/ot/web
