@@ -12,8 +12,8 @@
     @apply my-2 max-w-5xl text-base list-disc list-inside;
   }
 
-  a {
-    @apply border-b border-dotted;
+  a:not(.no-underline) {
+    @apply underline underline-offset-4 decoration-2 hover:bg-blue-300 active:bg-blue-300 active:ring-5 ring-blue-300 hover:ring-5 focus:bg-blue-300 focus:ring-5 rounded-md focus:outline-0;
   }
 
   h2 {
