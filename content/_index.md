@@ -72,9 +72,9 @@ schedule:
        time: 18:00
 ---
 
-The (un)conference about Free Software and Open Data for mobility and public transport.<br/>
-<span class="font-bold">Save the date: 17/18th of October in Vienna at
-        <a href="https://openinnovation.oebb.at/de/spaces">ÖBB's Innovation Factory!</a></span>
+The (un)conference about Free Software and Open Data for mobility and public transport.
+
+**Save the date: 17/18th of October in Vienna at [ÖBB's Innovation Factory!](https://openinnovation.oebb.at/de/spaces)**
 
 Connect with open source and open data communities from
 Transitous, MOTIS, OpenStreetMap, OpenTripPlanner, and many more!
