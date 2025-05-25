@@ -99,7 +99,7 @@ source and open data.
 This will be an <b>unconference</b>, rather than a traditional conference.
 
 This means less focus on talks and more on exchange and discussion. And we'll have participants play a big
-roll in deciding which topics/sessions/workshops will feature in the program.
+role in deciding which topics/sessions/workshops will feature in the program.
 
 See the <a href="#schedule">conference schedule</a> below for more details.
 
