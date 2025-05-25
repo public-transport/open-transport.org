@@ -66,4 +66,4 @@ jobs:
         with:
           name: artifact_public
       - run: |
-          rm -rf /home/ot/web/* && cp -r public/* /home/ot/web
+          rm -rf /home/ot/web/* && cp -r * /home/ot/web
