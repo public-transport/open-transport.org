@@ -3,19 +3,7 @@ title: "Open Transport Community Conference 2025"
 description: "The (un)conference about Free Software and Open Data for mobility and public transport."
 startDate: "2025-10-17T09:00:00+02:00"
 endDate: "2025-10-18T18:00:00+02:00"
-location:
-  '@type': Place
-  name: "ÖBB Open Innovation Factory"
-  address:
-    '@type': PostalAddress
-    addressCountry: AT
-    addressLocality: Wien
-    postalCode: 1020
-    streetAddress: Lassallestraße 5
-  geo:
-    '@type': GeoCoordinates
-    latitude": 48.221231
-    longitude": 16.395555
+jsonld: event2025
 images:
  - logo.png
 

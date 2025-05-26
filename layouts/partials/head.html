@@ -6,15 +6,11 @@
 {{ hugo.Generator }}
 {{ template "_internal/opengraph.html" . }}
 {{ partialCached "css.html" . }}
-{{ if .Params.location }}
+
+{{ $jsonLdFile := "" }}
+{{ with .Params.jsonld }}
+  {{ $jsonLdFile = index $.Site.Data.jsonld . }}
   <script type="application/ld+json">
-  {{ dict
-    "name" .Title
-    "description" .Description
-    "startDate" .Params.startDate
-    "endDate" .Params.endDate
-    "url" .Permalink
-    "location" .Params.location
-      | jsonify | safeJS }}
+  {{ $jsonLdFile | jsonify | safeJS }}
   </script>
 {{ end }}
