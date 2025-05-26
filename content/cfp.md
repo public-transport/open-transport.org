@@ -2,7 +2,7 @@
 title: Call for Participation
 ---
 
-The Open Transport Community Conference is an [Unconference](https://en.wikipedia.org/wiki/Unconference">Unconference). That is, the final session schedule will only be put together at the event itself. In order to prepare and allow people to see possible topics, we are nevertheless already collecting suggestions for sessions.
+The Open Transport Community Conference is an [Unconference](https://en.wikipedia.org/wiki/Unconference). That is, the final session schedule will only be put together at the event itself. In order to prepare and allow people to see possible topics, we are nevertheless already collecting suggestions for sessions.
 
 Unlike for conventional talks you don't need to be a domain expert to suggest a session, and you are not expected to fill the session with a prepared presentation. Suggesting a topic you want to learn more about and hope to find others to learn from at the conference is also perfectly valid. Helping with leading/moderating the discussion and/or taking notes would be appreciated though.
 
