@@ -29,3 +29,5 @@ For all of this keep in mind the "Open" part of the event, that is data and soft
 {{< buttonlink href="https://github.com/public-transport/open-transport-community-conference/discussions/new?category=session-proposals" >}}
 Submit your ideas as Github discussion
 {{< /buttonlink >}}
+
+<small>Not familiar with GitHub? You can also fill <a href="https://surveyjs.io/published?id=ea047e37-d987-471d-8ba1-baeeaf8bd4ab">this form</a>, to submit your suggestions.</small>
