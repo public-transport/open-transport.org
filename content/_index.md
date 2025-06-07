@@ -91,11 +91,6 @@ role in deciding which topics/sessions/workshops will feature in the program.
 
 See the <a href="#schedule">conference schedule</a> below for more details.
 
-<!-- to be replaced by CfP
-Do you already have an idea of a topic or session that you think should be featured?
-Reach out to us and let us know! (contact details below)
--->
-
 {{< buttonlink href="/cfp" >}}
 Call for Participation
 {{< /buttonlink >}}
@@ -133,13 +128,3 @@ Austria<br/>
 [^session]: Each session slot is 60 minutes. How you fill this time is up to you and your session group. You could have a big group discussion, you could split up in different breakout groups and come together again at the end, you could have one person sharing their knowledge or all try to solve some specific problem together. We would love if you could take some notes of the discussion and/or results for those that could not attend that session and post those notes to our github discussions page.
 
 [^lighting]: There will be a sign-up paper sheet, first come first serve.
-
-<!--
-<details class="w-92 bg-purple-300 rounded-2xl p-4 my-4 text-base">
-    <summary class="cursor-pointer">Lighting Talks (5 min each)</summary>
-    <ul class="mt-2 list-disc list-inside flex flex-col gap-1">
-        <li>Introduction to MOTIS (Felix Gündling)</li>
-        <li><a class="border-b border-dotted font-bold" href="https://github.com/motis-project/open-transport.org">Add your lighting talk on GitHub!</a></li>
-    </ul>
-</details>
--->
