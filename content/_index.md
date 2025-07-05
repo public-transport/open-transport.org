@@ -97,7 +97,7 @@ Call for Participation
 
 ## You have questions or want to contribute?
 
-Get in touch via [open-transport:matrix.org](https://matrix.to/#/#open-transport:matrix.org).
+Get in touch via [#open-transport:matrix.org](https://matrix.to/#/#open-transport:matrix.org).
 
 <small>Not familiar with Matrix? You can send us an email as well:<br/>
   <a href="mailto:info@open-transport.org">info@open-transport.org</a></small>
