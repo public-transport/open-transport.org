@@ -67,10 +67,6 @@ The (un)conference about Free Software and Open Data for mobility and public tra
 Connect with open source and open data communities from
 Transitous, MOTIS, OpenStreetMap, OpenTripPlanner, and many more!
 
-{{< buttonlink href="https://pretix.eu/open-transport/2025/" >}}
-Get your free ticket
-{{< /buttonlink >}}
-
 ## Who are we?
 
 We are a group of people working on different transport-related open-source and open-data
