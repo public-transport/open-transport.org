@@ -62,10 +62,14 @@ schedule:
 
 The (un)conference about Free Software and Open Data for mobility and public transport.
 
+**SOLD OUT** Location limits have been reached. Registration is no longer possible.
+
 **Save the date: 17/18th of October in Vienna at [ÖBB's Innovation Factory!](https://openinnovation.oebb.at/de/spaces)**
 
 Connect with open source and open data communities from
 Transitous, MOTIS, OpenStreetMap, OpenTripPlanner, and many more!
+
+**SOLD OUT**
 
 ## Who are we?
 
@@ -99,6 +103,8 @@ Get in touch via [#open-transport:matrix.org](https://matrix.to/#/#open-transpor
   <a href="mailto:info@open-transport.org">info@open-transport.org</a></small>
 
 ## Location
+
+**SOLD OUT**
 
 <address>
 
