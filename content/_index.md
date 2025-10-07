@@ -54,8 +54,10 @@ schedule:
        time: 14:30
      - name: Final session slot
        time: 15:00
+     - name: Closing
+       time: 16:15
      - name: Time for mingling / impromptu sessions
-       time: 16:00
+       time: 16:30
      - name: Conference over
        time: 18:00
 ---
