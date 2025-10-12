@@ -71,7 +71,7 @@ The (un)conference about Free Software and Open Data for mobility and public tra
 Connect with open source and open data communities from
 Transitous, MOTIS, OpenStreetMap, OpenTripPlanner, and many more!
 
-**More information for conference attendees can be found on our [wiki](github.com/public-transport/open-transport-community-conference/wiki)**
+**More information for conference attendees can be found on our [wiki](https://github.com/public-transport/open-transport-community-conference/wiki)**
 
 ## Who are we?
 
