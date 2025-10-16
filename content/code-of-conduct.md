@@ -12,8 +12,16 @@ Harassment includes offensive verbal comments related to gender, sexual orientat
 
 If a participant engages in harassing behaviour, the event organizers may take any action they deem appropriate, including expelling the offender from the event. If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the event team immediately.
 
-Information on how to reach the event team will be added here closer to the event.
-
 We expect participants to follow these rules at all event venues and event-related social events. We are committed to a fun and productive event for all attendees, and believe that this policy will help achieve that goal.
 
 We ask for the cooperation of all attendees in achieving this goal. Thank you!
+
+---
+
+You can contact members of the awareness team individually:
+- Kat ([`hello@krasch.io`](mailto:hello@krasch.io), no pronouns)
+- Jannis ([`mail+octu@jannisr.de`](mailto:mail+octu@jannisr.de), [`@derhuerst.49` on Signal](https://signal.me/#eu/YrLFWf6qWVrGYzQgkvLFugrjc3-OYBVDLqrzPUcXmC7OYkP4CFZEObbf3EBtOfOc), [`@derhuerst:matrix.org` on Matrix](https://matrix.to/#/@derhuerst:matrix.org), er/he).
+
+Please note that we (the awareness team) are also part of the event team.
+
+You can contact the event team (and everyone else) in the (public) [Matrix chat `#open-transport:matrix.org`](https://matrix.to/#/#open-transport:matrix.org).
