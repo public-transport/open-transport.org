@@ -1,8 +1,8 @@
 ---
 title: "Open Transport Community Conference 2026"
 description: "The (un)conference about Free Software and Open Data for mobility and public transport."
-startDate: "2025-10-17T09:00:00+02:00"
-endDate: "2025-10-18T18:00:00+02:00"
+startDate: "2026-10-06T09:00:00+02:00"
+endDate: "2026-10-09T18:00:00+02:00"
 jsonld: event2026
 year: "2026"
 images:
@@ -19,8 +19,7 @@ The (un)conference about Free Software and Open Data for mobility and public tra
   - **6/7th of October - hack days**
   - **8/9th of October - (un)conference**
 
-**in Switzerland at SBB headquaters.**
-
+**in Switzerland at SBB headquaters. Registration will open in February 2026.**
 
 Connect with open source and open data communities from
 Transitous, MOTIS, OpenStreetMap, OpenTripPlanner, and many more!
