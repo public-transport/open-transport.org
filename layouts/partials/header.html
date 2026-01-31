@@ -1,16 +1,17 @@
 <a href="/">
   {{ with resources.Get "img/logo.png" | resources.Fingerprint }}
-    <img src="{{ .Permalink }}" class="mt-4 mb-2" width="{{ .Width }}" height="{{ .Height }}" alt="Open Transport Community Logo" />
+  <img src="{{ .Permalink }}" class="mt-4 mb-2" width="{{ .Width }}" height="{{ .Height }}"
+    alt="Open Transport Community Logo" />
   {{ end }}
 </a>
 
 <h1 class="text-3xl sm:text-5xl font-bold my-4 text-center">
-    <a href="/">
+  <a href="/">
     Open Transport<br />
     <strong class="text-5xl sm:text-7xl bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-purple-500">
       Community
     </strong>
     <br />
-    Conference
-    </a>
+    Conference {{ $.Params.year }}
+  </a>
 </h1>

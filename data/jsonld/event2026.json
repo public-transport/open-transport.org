@@ -1,0 +1,26 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Event",
+  "name": "Open Transport Community Conference 2026",
+  "description": "The (un)conference about Free Software and Open Data for mobility and public transport.",
+  "startDate": "2026-10-08T09:00:00+02:00",
+  "endDate": "2026-10-09T17:30:00+02:00",
+  "url": "https://open-transport.org",
+  "location": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "CH",
+      "addressLocality": "Bern",
+      "postalCode": "13014",
+      "streetAddress": "Hilfikerstrasse 1"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 46.967813,
+      "longitude": 7.463129
+    },
+    "name": "SBB Headquaters"
+  },
+  "potentialAction": []
+}

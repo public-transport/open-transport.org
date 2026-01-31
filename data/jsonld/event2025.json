@@ -22,7 +22,8 @@
     },
     "name": "ÖBB Open Innovation Factory"
   },
-  "potentialAction": [ {
+  "potentialAction": [
+    {
       "@type": "RegisterAction",
       "target": "https://pretix.eu/open-transport/2025/"
     }
