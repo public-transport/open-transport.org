@@ -54,7 +54,7 @@ Get in touch via [#open-transport:matrix.org](https://matrix.to/#/#open-transpor
 
 <address>
 
-SBB Headquaters<br/>
+SBB Headquarters<br/>
 Hilfikerstrasse 1<br/>
 3014 Bern<br/>
 Switzerland<br/>
