@@ -7,13 +7,25 @@ jsonld: event2026
 year: "2026"
 images:
  - logo.png
+hero:
+  eyebrow: "Open Transport Community Conference"
+  title: 'Open Transport <span class="text-5xl sm:text-7xl bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-purple-400">Community</span> Conference 2026'
+  subtitle: "Bern, Switzerland"
+  lede: "The (un)conference about Free Software and Open Data for mobility and public transport."
+  background: "img/2025/vote.jpg"
+  card:
+    title: "Open transport meets in Bern"
+    description: "Two hack days and two (un)conference days to build and connect."
+    where:
+      value: "SBB Headquarters, Hilfikerstrasse 1, 3014 Bern, Switzerland"
+    when:
+      - "October 6-7, 2026: Hackdays"
+      - "October 8-9, 2026: (Un)conference"
+    # cta
+    #  href: "https://example.com" # TODO uncomment when registration link is available
 ---
 
 After the [2025 OTCC](/2025) was a great success, the conference goes into round #2.
-
-In 2026, OTCC will be hosted by SBB in Bern, Switzerland.
-
-The (un)conference about Free Software and Open Data for mobility and public transport.
 
 **Save the date**:
   - **6/7th of October - hack days**
@@ -61,4 +73,3 @@ Switzerland<br/>
 </address>
 
 [View on OpenStreetMap](https://www.openstreetmap.org/way/222893278)
-
