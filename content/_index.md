@@ -9,7 +9,7 @@ images:
  - logo.png
 hero:
   eyebrow: "Open Transport Community Conference"
-  title: 'Open Transport <span class="text-5xl sm:text-7xl bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-purple-400">Community</span> Conference 2026'
+  title: 'Open Transport <span class="bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-purple-400">Community</span> Conference 2026'
   subtitle: "Bern, Switzerland"
   lede: "The (un)conference about Free Software and Open Data for mobility and public transport."
   background: "img/2025/vote.jpg"
