@@ -58,7 +58,7 @@ role in deciding which topics/sessions/workshops will feature in the program.
 
 Get in touch via [#open-transport:matrix.org](https://matrix.to/#/#open-transport:matrix.org).
 
-<small>Not familiar with Matrix? You can send us an email as well:<br/>
+<small>Not familiar with Matrix? You can also follow us on [Mastodon](https://en.osm.town/@opentransport) or send us an email:<br/>
   <a href="mailto:info@open-transport.org">info@open-transport.org</a></small>
 
 ## Location
