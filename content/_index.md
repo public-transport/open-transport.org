@@ -31,7 +31,7 @@ After the [2025 OTCC](/2025) was a great success, the conference goes into round
   - **6/7th of October - hack days**
   - **8/9th of October - (un)conference**
 
-**in Switzerland at SBB headquaters. Registration will open in February 2026.**
+**in Switzerland at SBB headquaters. Registration will open in the upcoming weeks.**
 
 Connect with open source and open data communities from
 Transitous, MOTIS, OpenStreetMap, OpenTripPlanner, and many more!
