@@ -31,7 +31,7 @@ After the [2025 OTCC](/2025) was a great success, the conference goes into round
   - **6/7th of October - hack days**
   - **8/9th of October - (un)conference**
 
-**in Switzerland at SBB headquaters. Registration will open in the upcoming weeks.**
+**in Switzerland at SBB headquarters. Registration will open in the upcoming weeks.**
 
 Connect with open source and open data communities from
 Transitous, MOTIS, OpenStreetMap, OpenTripPlanner, and many more!
@@ -47,12 +47,19 @@ same area, to have time for exchange, learning from each other, starting collabo
 Anyone who works in public transport, either on your free time or commercially, who is open to open
 source and open data.
 
-## What to expect?
+## What to expect at the conference?
 
 This will be an <b>unconference</b>, rather than a traditional conference.
 
 This means less focus on talks and more on exchange and discussion. And we'll have participants play a big
 role in deciding which topics/sessions/workshops will feature in the program.
+
+Have a look at [__the 2025 conference wiki__](https://github.com/public-transport/open-transport-community-conference/wiki)
+to learn how we self-organised at last year's conference and what topics we got into.
+
+## What to expect at the hackdays?
+
+More info coming soon
 
 ## You have questions or want to contribute?
 
