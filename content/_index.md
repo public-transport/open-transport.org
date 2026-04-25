@@ -59,7 +59,13 @@ to learn how we self-organised at last year's conference and what topics we got 
 
 ## What to expect at the hackdays?
 
-More info coming soon
+The hackdays provide a place for people to meet and work together.
+Bring your own topcis and projects, and hack on them and exchange ideas with others.
+
+Some groups such as the OpenTripPlanner or Transitous communities will organize their own agenda for the hackdays,
+everyone interested is welcome to join this as well.
+
+We'll have a number of rooms available, for between 10 and 30 people each.
 
 ## You have questions or want to contribute?
 
@@ -70,13 +76,23 @@ Get in touch via [#open-transport:matrix.org](https://matrix.to/#/#open-transpor
 
 ## Location
 
-<address>
+### Unconference
 
+<address>
 SBB Headquarters<br/>
 Hilfikerstrasse 1<br/>
 3014 Bern<br/>
 Switzerland<br/>
-
 </address>
 
 [View on OpenStreetMap](https://www.openstreetmap.org/way/222893278)
+
+### Hackdays
+
+<address>
+Trüsselstrasse 2<br/>
+3014 Bern<br/>
+Switzerland<br/>
+</address>
+
+[View on OpenStreetMap](https://www.openstreetmap.org/way/690402784)
