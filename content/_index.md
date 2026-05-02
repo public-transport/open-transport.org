@@ -25,7 +25,7 @@ hero:
     #  href: "https://example.com" # TODO uncomment when registration link is available
 ---
 
-After the [2025 OTCC](/2025) was a great success, the conference goes into round #2.
+After the [last year's Open Transport Community Conference](/2025) was a great success, the conference goes into round #2.
 
 **Save the date**:
   - **6/7th of October - hack days**
