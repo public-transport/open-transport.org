@@ -96,3 +96,27 @@ Switzerland<br/>
 </address>
 
 [View on OpenStreetMap](https://www.openstreetmap.org/way/690402784)
+
+## Practicalities
+
+### Getting around in Bern
+
+When staying overnight at an accommodation in Bern, you'll get free public transport in the city.
+See [this page](https://bern.com/en/inform/bern-ticket/bern-ticket-for-overnight-guests) for details.
+
+The venue is right next to the [Bern Wankdorf](https://api.transitous.org/?stopArriveBy=false&stopId=ch-opentransportdataswiss26_Parent8516161) station with regional/commuter rail and tram services to the city center.
+
+<!--
+### Accommodation
+
+TODO Special hotel rate: how to get that?
+### Food
+
+Lunch is available in the SBB cafeteria each day, for approximately CHF TODO per day.
+There's also a small supermarket across the street, but that's unlikely to scale for a substantial amount of attendees,
+so better plan ahead and bring something from elsewhere if you don't want to eat at the cafeteria.
+-->
+
+### Visa
+
+We can unfortunately not provide any support paperwork such as invitation letters etc. for attendees needing a visa to enter Switzerland.
