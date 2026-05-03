@@ -77,6 +77,10 @@ Get in touch via [#open-transport:matrix.org](https://matrix.to/#/#open-transpor
 <small>Not familiar with Matrix? You can also follow us on [Mastodon](https://en.osm.town/@opentransport) or send us an email:<br/>
   <a href="mailto:info@open-transport.org">info@open-transport.org</a></small>
 
+{{< buttonlink href="mailto:info@open-transport.org" >}}
+Contact us
+{{< /buttonlink >}}
+
 ## Location
 
 ### Unconference
