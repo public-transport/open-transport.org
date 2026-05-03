@@ -38,8 +38,11 @@ Transitous, MOTIS, OpenStreetMap, OpenTripPlanner, and many more!
 
 ## Who are we?
 
-We are a group of people working on different transport-related open-source and open-data
-projects. With this conference we want to create a space to connect with others working in the
+The Open Transport Community Conference is organized by [FOSSGIS e.V.](https://fossgis.de) and
+a group of people working on different transport-related open-source and open-data
+projects.
+
+With this conference we want to create a space to connect with others working in the
 same area, to have time for exchange, learning from each other, starting collaborations.
 
 ## Who is this event for?
@@ -73,6 +76,10 @@ Get in touch via [#open-transport:matrix.org](https://matrix.to/#/#open-transpor
 
 <small>Not familiar with Matrix? You can also follow us on [Mastodon](https://en.osm.town/@opentransport) or send us an email:<br/>
   <a href="mailto:info@open-transport.org">info@open-transport.org</a></small>
+
+{{< buttonlink href="mailto:info@open-transport.org" >}}
+Contact us
+{{< /buttonlink >}}
 
 ## Location
 
