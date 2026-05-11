@@ -159,3 +159,6 @@ Friedrichstr. 219 <br>
 10969 Berlin <br>
 Tel.: +49 (0)30 13889-0 <br>
 Email: mailbox@datenschutz-berlin.de <br>
+
+_This English translation was prepared for convenience purposes. The German text shall constitute the authentic
+version. In the event of any discrepancies between the German and the English text, the German text shall prevail._
