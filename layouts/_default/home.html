@@ -60,6 +60,23 @@
   </div>
 </section>
 
+<section class="container mx-auto mt-10 px-6">
+  <div class="flex flex-col items-center justify-center gap-10 sm:flex-row sm:gap-16">
+    <div class="flex flex-col items-center">
+      <p class="text-xs font-semibold uppercase tracking-[0.2em] text-slate-500">Supported by</p>
+      {{ with resources.Get "img/2026/opentransportdata-swiss-logo.png" }}
+      <img src="{{ .RelPermalink }}" alt="Open Transport Data Swiss" class="mt-3 h-16 w-auto object-contain" />
+      {{ end }}
+    </div>
+    <div class="flex flex-col items-center">
+      <p class="text-xs font-semibold uppercase tracking-[0.2em] text-slate-500">Hosted by</p>
+      {{ with resources.Get "img/2026/sbb-logo.svg" }}
+      <img src="{{ .RelPermalink }}" alt="SBB" class="mt-3 h-16 w-auto object-contain" />
+      {{ end }}
+    </div>
+  </div>
+</section>
+
 <div class="md-content mt-12">
   {{ .Content }}
 </div>
