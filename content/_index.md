@@ -31,19 +31,17 @@ After the [last year's Open Transport Community Conference](/2025) was a great s
   - **6/7th of October - hack days**
   - **8/9th of October - (un)conference**
 
-**in Switzerland at SBB headquarters. Registration will open on 2026-05-06 10:00 CEST.**
+**in Switzerland at SBB headquarters.**
 
 Connect with open source and open data communities from
 Transitous, MOTIS, OpenStreetMap, OpenTripPlanner, and many more!
 
-<!--
 {{< buttonlink href="https://pretix.eu/fossgis/open-transport-2026/" >}}
 Register
 {{< /buttonlink >}}
 
 Participation is free for everyone, but registration is required.
 We also offer paid business tickets to help covering the cost of the event.
--->
 
 ## Who are we?
 
