@@ -6,7 +6,7 @@ endDate: "2026-10-09T18:00:00+02:00"
 jsonld: event2026
 year: "2026"
 images:
- - logo.png
+ - img/2025/vote.jpg
 hero:
   eyebrow: "Open Transport Community Conference"
   title: 'Open Transport <span class="bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-purple-400">Community</span> Conference 2026'
