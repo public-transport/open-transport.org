@@ -21,8 +21,8 @@ hero:
     when:
       - "October 6-7, 2026: Hackdays"
       - "October 8-9, 2026: (Un)conference"
-    # cta
-    #  href: "https://example.com" # TODO uncomment when registration link is available
+    cta:
+      href: "https://pretix.eu/fossgis/open-transport-2026/"
 ---
 
 After the [last year's Open Transport Community Conference](/2025) was a great success, the conference goes into round #2.
