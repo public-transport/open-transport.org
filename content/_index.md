@@ -57,6 +57,22 @@ same area, to have time for exchange, learning from each other, starting collabo
 Anyone who works in public transport, either on your free time or commercially, who is open to open
 source and open data.
 
+If you are interested in topics such as the following it's probably for you:
+
+* Schedule data, including data formats, data quality, tooling, QA as well as uses and lobby/outreach work for getting more data published.
+* Shared and on-demand mobility data.
+* Routing for all kinds of modalities, including routing engines, algorithms and APIs.
+* Accessibility in public transport, including routing profiles, indoor routing, data standards, and elevator status data.
+* Passenger-facing applications around public transport and mobility usecases.
+* Transit data analysis and research supporting passenger-facing usecases.
+* Operations of open source public transport routing services.
+* Digital tickets beyond proprietary platforms.
+* Open source solutions for community-run mobility services.
+* Geocoding.
+* OpenStreetMap (OSM), including tagging schemas, data importing and upstream collaboration.
+* Collaboration between public transport operators/agencies and the Open Transport community.
+* Community work, such as local events/meetups.
+
 ## What to expect at the conference?
 
 This will be an <b>unconference</b>, rather than a traditional conference.
