@@ -70,6 +70,7 @@ If you are interested in topics such as the following it's probably for you:
 * Open source solutions for community-run mobility services.
 * Geocoding.
 * OpenStreetMap (OSM), including tagging schemas, data importing and upstream collaboration.
+* Dynamic traffic data, such as road closures, dynamic traffic signs, parking space availability and traffic flow.
 * Collaboration between public transport operators/agencies and the Open Transport community.
 * Community work, such as local events/meetups.
 
