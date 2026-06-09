@@ -150,6 +150,3 @@ There's also a small supermarket across the street, but that's unlikely to scale
 so better plan ahead and bring something from elsewhere if you don't want to eat at the cafeteria.
 -->
 
-### Visa
-
-We can unfortunately not provide any support paperwork such as invitation letters etc. for attendees needing a visa to enter Switzerland.
