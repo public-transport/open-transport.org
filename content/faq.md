@@ -27,7 +27,8 @@ For more specific questions, [contact us](/#you-have-questions-or-want-to-contri
 ### Event
 
 * **Which days should I attend at?**  
-  If you are new or only have limited time, you should attend the conference days.  
+  If you only have limited time or budget, you should attend the conference days.  
+  But if you are interested in getting things done, for example getting involved in the OpenTripPlanner or Transitous community and working on some projects, also consider the hack days. Notice that these will be less organized.  
   For more details see [What to expect at the conference?](/#what-to-expect-at-the-conference) and [What to expect at the hackdays?](/#what-to-expect-at-the-hackdays).
 * **Do I need a ticket?**  
   Yes. We need to organize and therefore need to know the number of participants in advance.
@@ -41,4 +42,6 @@ For more specific questions, [contact us](/#you-have-questions-or-want-to-contri
 
 * **Will there be recordings?**  
   While we would like to offer recordings in the future, we currently don't have the equipment for these. We instead will provide notes, that will be taken during each session.
+* **I need a Visa**  
+  We can unfortunately not provide any support paperwork such as invitation letters etc. for attendees needing a visa to enter Switzerland.
 
