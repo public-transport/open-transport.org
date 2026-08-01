@@ -139,10 +139,13 @@ See [this page](https://bern.com/en/inform/bern-ticket/bern-ticket-for-overnight
 
 The venue is right next to the [Bern Wankdorf](https://api.transitous.org/?stopArriveBy=false&stopId=ch-opentransportdataswiss26_Parent8516161) station with regional/commuter rail and tram services to the city center.
 
-<!--
-### Accommodation
+### Power and Internet
 
-TODO Special hotel rate: how to get that?
+Note that Switzerland uses slightly [uncommon power sockets](https://en.wikipedia.org/wiki/SN_441011)
+and is not part of the [EU roaming regulation](https://en.wikipedia.org/wiki/European_Union_roaming_regulations).
+
+
+<!--
 ### Food
 
 Lunch is available in the SBB cafeteria each day, for approximately CHF TODO per day.
