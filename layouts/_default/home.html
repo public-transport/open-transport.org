@@ -10,7 +10,7 @@
 
 <section class="hero-splash container md:mt-4 lg:mt-8 rounded-b-4xl md:rounded-4xl"
   style="--hero-image: url('{{ $bgUrl }}')">
-  <div class="mx-auto w-full max-w-6xl px-6 py-16 sm:py-20 lg:py-24">
+  <div class="mx-auto w-full max-w-6xl px-6 py-8 sm:py-10 lg:py-12">
     <div class="grid gap-10 lg:grid-cols-[1.1fr_0.9fr] lg:items-center">
       <div class="text-white text-center md:text-left">
         <h1 class="mt-4 text-6xl font-semibold tracking-tight">
@@ -62,10 +62,51 @@
 
 <section class="container mx-auto mt-10 px-6">
   <div class="flex flex-col items-center justify-center gap-10 sm:flex-row sm:gap-16">
+    <p class="text-xs font-semibold uppercase tracking-[0.2em] text-slate-500">Communities</p>
+  </div>
+  <div class="flex flex-col items-center justify-center gap-10 sm:flex-row sm:gap-16">
+    <div class="flex flex-col items-center">
+      {{ with resources.Get "img/projects/otp-logo.svg" }}
+      <a href="https://www.opentripplanner.org" class="flex flex-col items-center">
+        <img src="{{ .RelPermalink }}" alt="OpenTripPlanner" class="mt-3 h-12 w-auto object-contain" />
+        <span class="mt-2 text-sm font-medium text-slate-500">OpenTripPlanner</span>
+      </a>
+      {{ end }}
+    </div>
+    <div class="flex flex-col items-center">
+      {{ with resources.Get "img/projects/motis-logo.svg" }}
+      <a href="https://github.com/motis-project/motis" class="flex flex-col items-center">
+        <img src="{{ .RelPermalink }}" alt="MOTIS" class="mt-3 h-12 w-auto object-contain" />
+        <span class="mt-2 text-sm font-medium text-slate-500">MOTIS</span>
+      </a>
+      {{ end }}
+    </div>
+    <div class="flex flex-col items-center">
+      {{ with resources.Get "img/projects/transitous-logo.svg" }}
+      <a href="https://transitous.org" class="flex flex-col items-center">
+        <img src="{{ .RelPermalink }}" alt="Transitous" class="mt-3 h-12 w-auto object-contain" />
+        <span class="mt-2 text-sm font-medium text-slate-500">Transitous</span>
+      </a>
+      {{ end }}
+    </div>
+    <div class="flex flex-col items-center">
+      {{ with resources.Get "img/projects/osm-logo.svg" }}
+      <a href="https://www.openstreetmap.org" class="flex flex-col items-center">
+        <img src="{{ .RelPermalink }}" alt="OpenStreetMap" class="mt-3 h-12 w-auto object-contain" />
+        <span class="mt-2 text-sm font-medium text-slate-500">OpenStreetMap</span>
+      </a>
+      {{ end }}
+    </div>
+  </div>
+</section>
+<section class="container mx-auto mt-10 px-6">
+  <div class="flex flex-col items-center justify-center gap-10 sm:flex-row sm:gap-16">
     <div class="flex flex-col items-center">
       <p class="text-xs font-semibold uppercase tracking-[0.2em] text-slate-500">Hosted by</p>
       {{ with resources.Get "img/2026/sbb-logo.svg" }}
-      <img src="{{ .RelPermalink }}" alt="SBB" class="mt-3 h-16 w-auto object-contain"/>
+      <a href="https://www.sbb.ch">
+        <img src="{{ .RelPermalink }}" alt="SBB" class="mt-3 h-16 w-auto object-contain"/>
+      </a>
       {{ end }}
     </div>
   </div>
@@ -77,12 +118,16 @@
   <div class="flex flex-col items-center justify-center gap-10 sm:flex-row sm:gap-16">
     <div class="flex flex-col items-center">
       {{ with resources.Get "img/2026/opentransportdata-swiss-logo.png" }}
-      <img src="{{ .RelPermalink }}" alt="Open Transport Data Swiss" class="mt-3 h-16 w-auto object-contain" />
+      <a href="https://opentransportdata.swiss">
+        <img src="{{ .RelPermalink }}" alt="Open Transport Data Swiss" class="mt-3 h-16 w-auto object-contain" />
+      </a>
       {{ end }}
     </div>
     <div class="flex flex-col items-center">
       {{ with resources.Get "img/2026/DB_InfraGo_logo_red_black_100px_rgb.svg" }}
-      <img src="{{ .RelPermalink }}" alt="DB InfraGO" class="mt-3 h-16 w-auto object-contain" />
+      <a href="https://www.dbinfrago.com">
+        <img src="{{ .RelPermalink }}" alt="DB InfraGO" class="mt-3 h-16 w-auto object-contain" />
+      </a>
       {{ end }}
     </div>
     <div class="flex flex-col items-center">
@@ -93,13 +138,14 @@
   <div class="flex flex-col items-center justify-center gap-10 sm:flex-row sm:gap-16">
     <div class="flex flex-col items-center">
       <p class="text-xs font-semibold uppercase tracking-[0.2em] text-slate-500">Organized by</p>
-      {{ with resources.Get "img/2026/FOSSGIS.png" }}
-      <img src="{{ .RelPermalink }}" alt="FOSSGIS e.V." class="mt-3 h-16 w-auto object-contain"/>
+      {{ with resources.Get "img/2026/FOSSGIS.svg" }}
+      <a href="https://fossgis.de">
+        <img src="{{ .RelPermalink }}" alt="FOSSGIS e.V." class="mt-3 h-16 w-auto object-contain"/>
+      </a>
       {{ end }}
     </div>
   </div>
 </section>
-
 <div class="md-content mt-12">
   {{ .Content }}
 </div>
