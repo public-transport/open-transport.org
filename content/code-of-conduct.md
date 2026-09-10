@@ -21,6 +21,7 @@ We ask for the cooperation of all attendees in achieving this goal. Thank you!
 You can contact members of the awareness team individually:
 - Kat ([`hello@krasch.io`](mailto:hello@krasch.io), no pronouns)
 - Jannis ([`mail+octu@jannisr.de`](mailto:mail+octu@jannisr.de), [`@derhuerst.49` on Signal](https://signal.me/#eu/YrLFWf6qWVrGYzQgkvLFugrjc3-OYBVDLqrzPUcXmC7OYkP4CFZEObbf3EBtOfOc), [`@derhuerst:matrix.org` on Matrix](https://matrix.to/#/@derhuerst:matrix.org), er/he).
+- Jonah ([`jbb@kaidan.im`](mailto:jbb@kaidan.im), [`@jbb.42` on Signal](https://signal.me/#eu/bYzHR5UdL89wFNG0DOanJYbaFvjMUqORe6ZapJVCcZCSdG76GmdFmIZ3XAaeSHSZ), [`@jbb:matrix.spline.de` on Matrix](https://matrix.to/#/@jbb:matrix.spline.de), he/him)
 
 Please note that we (the awareness team) are also part of the event team.
 
