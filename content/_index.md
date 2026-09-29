@@ -23,6 +23,62 @@ hero:
       - "October 8-9, 2026: (Un)conference"
     cta:
       href: "https://pretix.eu/fossgis/open-transport-2026/"
+
+schedule:
+ - date: Thursday, October 8
+   events:
+     - name: "Arrival, coffee, hello"
+       time: "09:00"
+     - name: "Welcome from SBB & organizers"
+       time: "09:30"
+     - name: "Session pitches"
+       time: "10:00"
+     - name: "Break / Creating the sessions schedule"
+       time: "11:00"
+     - name: "Lightning talks (hackdays focus)"
+       time: "11:30"
+     - name: "Lunch"
+       time: "12:00"
+     - name: "Session slot 1"
+       time: "13:30"
+     - name: "Break"
+       time: "14:30"
+     - name: "Session slot 2"
+       time: "15:00"
+     - name: "Break"
+       time: "16:00"
+     - name: "Lightning talks"
+       time: "16:15"
+     - name: "Time for mingling / impromptu sessions"
+       time: "16:45"
+     - name: "Closing / heading for dinner"
+       time: "17:15"
+ - date: Friday, October 9
+   events:
+     - name: "Arrival, coffee, hello"
+       time: "09:00"
+     - name: "Session slot 3"
+       time: "09:30"
+     - name: "Break + Group photo"
+       time: "10:30"
+     - name: "Session slot 4"
+       time: "11:00"
+     - name: "Lunch"
+       time: "12:00"
+     - name: "Session slot 5"
+       time: "13:30"
+     - name: "Break"
+       time: "14:30"
+     - name: "Session slot 6"
+       time: "15:00"
+     - name: "Break"
+       time: "16:00"
+     - name: "Official closing"
+       time: "16:15"
+     - name: "Time for mingling / impromptu sessions"
+       time: "16:30"
+     - name: "Closing / heading for dinner"
+       time: "17:15"
 ---
 
 After the [last year's Open Transport Community Conference](/2025) was a great success, the conference goes into round #2.
@@ -129,6 +185,10 @@ Switzerland<br/>
 </address>
 
 [View on OpenStreetMap](https://www.openstreetmap.org/way/690402784)
+
+## Schedule
+
+{{% schedule %}}
 
 ## Practicalities
 
