@@ -25,6 +25,30 @@ hero:
       href: "https://pretix.eu/fossgis/open-transport-2026/"
 
 schedule:
+ - date: Tuesday, October 6
+   events:
+     - name: "Arrival, coffee, hello"
+       time: "09:00"
+     - name: "Hacking"
+       time: "09:30"
+     - name: "Lunch"
+       time: "12:00"
+     - name: "Hacking"
+       time: "13:30"
+     - name: "Closing / heading for dinner"
+       time: "17:15"
+ - date: Wednesday, October 7
+   events:
+     - name: "Arrival, coffee, hello"
+       time: "09:00"
+     - name: "Hacking"
+       time: "09:30"
+     - name: "Lunch"
+       time: "12:00"
+     - name: "Hacking"
+       time: "13:30"
+     - name: "Closing / heading for dinner"
+       time: "17:15"
  - date: Thursday, October 8
    events:
      - name: "Arrival, coffee, hello"
