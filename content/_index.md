@@ -35,7 +35,7 @@ schedule:
        time: "12:00"
      - name: "Hacking"
        time: "13:30"
-     - name: "Closing / heading for dinner"
+     - name: "Closing"
        time: "17:15"
  - date: Wednesday, October 7
    events:
@@ -47,7 +47,7 @@ schedule:
        time: "12:00"
      - name: "Hacking"
        time: "13:30"
-     - name: "Closing / heading for dinner"
+     - name: "Closing"
        time: "17:15"
  - date: Thursday, October 8
    events:
@@ -59,7 +59,7 @@ schedule:
        time: "10:00"
      - name: "Break / Creating the sessions schedule"
        time: "11:00"
-     - name: "Lightning talks (hackdays focus)"
+     - name: "Lightning talks 1"
        time: "11:30"
      - name: "Lunch"
        time: "12:00"
@@ -71,12 +71,12 @@ schedule:
        time: "15:00"
      - name: "Break"
        time: "16:00"
-     - name: "Lightning talks"
+     - name: "Lightning talks 2"
        time: "16:15"
      - name: "Time for mingling / impromptu sessions"
        time: "16:45"
-     - name: "Closing / heading for dinner"
-       time: "17:15"
+     - name: "End"
+       time: "17:30"
  - date: Friday, October 9
    events:
      - name: "Arrival, coffee, hello"
@@ -97,12 +97,14 @@ schedule:
        time: "15:00"
      - name: "Break"
        time: "16:00"
-     - name: "Official closing"
+     - name: "Lightning talks 3"
        time: "16:15"
+     - name: "Official closing"
+       time: "16:45"
      - name: "Time for mingling / impromptu sessions"
-       time: "16:30"
-     - name: "Closing / heading for dinner"
-       time: "17:15"
+       time: "17:00"
+     - name: "End"
+       time: "17:30"
 ---
 
 After the [last year's Open Transport Community Conference](/2025) was a great success, the conference goes into round #2.
