@@ -163,7 +163,7 @@ This will be an <b>unconference</b>, rather than a traditional conference.
 This means less focus on talks and more on exchange and discussion. And we'll have participants play a big
 role in deciding which topics/sessions/workshops will feature in the program.
 
-Have a look at [__the 2025 conference wiki__](https://github.com/public-transport/open-transport-community-conference/wiki)
+Have a look at [__the 2025 conference wiki__](https://github.com/public-transport/open-transport-community-conference/wiki/2025-conference-wiki)
 to learn how we self-organised at last year's conference and what topics we got into.
 
 ## What to expect at the hackdays?
@@ -230,12 +230,7 @@ The venue is right next to the [Bern Wankdorf](https://api.transitous.org/?stopA
 Note that Switzerland uses slightly [uncommon power sockets](https://en.wikipedia.org/wiki/SN_441011)
 and is not part of the [EU roaming regulation](https://en.wikipedia.org/wiki/European_Union_roaming_regulations).
 
-
-<!--
 ### Food
 
-Lunch is available in the SBB cafeteria each day, for approximately CHF TODO per day.
-There's also a small supermarket across the street, but that's unlikely to scale for a substantial amount of attendees,
-so better plan ahead and bring something from elsewhere if you don't want to eat at the cafeteria.
--->
+There will be vegetarian and vegan food provided for lunch during all four days at the venue, thanks to our sponsors.
 
