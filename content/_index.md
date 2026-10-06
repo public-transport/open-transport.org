@@ -17,7 +17,7 @@ hero:
     title: "Open transport meets in Bern"
     description: "Two hack days and two (un)conference days to build and connect."
     where:
-      value: "SBB Headquarters, Hilfikerstrasse 1, 3014 Bern, Switzerland"
+      value: "SBB Headquarters, Bern, Switzerland"
     when:
       - "October 6-7, 2026: Hackdays"
       - "October 8-9, 2026: (Un)conference"
