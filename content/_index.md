@@ -214,6 +214,9 @@ Switzerland<br/>
 
 ## Schedule
 
+See the [conference wiki](https://github.com/public-transport/open-transport-community-conference/wiki)
+for the list of sessions and links to their pads.
+
 {{% schedule %}}
 
 ## Practicalities
