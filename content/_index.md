@@ -21,8 +21,6 @@ hero:
     when:
       - "October 6-7, 2026: Hackdays"
       - "October 8-9, 2026: (Un)conference"
-    cta:
-      href: "https://pretix.eu/fossgis/open-transport-2026/"
 
 schedule:
  - date: Tuesday, October 6
@@ -117,10 +115,6 @@ After the [last year's Open Transport Community Conference](/2025) was a great s
 
 Connect with open source and open data communities from
 Transitous, MOTIS, OpenStreetMap, OpenTripPlanner, and many more!
-
-{{< buttonlink href="https://pretix.eu/fossgis/open-transport-2026/" >}}
-Register
-{{< /buttonlink >}}
 
 Participation is free for everyone, but registration is required.
 We also offer paid business tickets to help covering the cost of the event.
